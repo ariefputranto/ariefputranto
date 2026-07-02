@@ -24,7 +24,7 @@
 - 🚀 &nbsp;**Full Stack Engineer** with **8+ years** shipping production web apps, RESTful/GraphQL APIs, and microservices.
 - 🌏 &nbsp;Worked remotely with teams across **Indonesia, Hong Kong, and Australia**.
 - 🧩 &nbsp;Domains: **AI-powered legal tech, property tech, EdTech, healthcare, e-commerce**.
-- 🤖 &nbsp;Currently integrating **LLMs** into contract analysis & document review at **Nexlaw AI**.
+- 🤖 &nbsp;Passionate about **LLM integration** — bringing AI workflows into production-grade SaaS.
 - 📍 &nbsp;Based in **Kediri, East Java, Indonesia** — open to remote work worldwide.
 
 ---
@@ -48,10 +48,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ariefputranto&show_icons=true&hide_border=true&theme=tokyonight&icon_color=00d4ff&title_color=7c3aed" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefputranto&layout=compact&hide_border=true&theme=tokyonight&title_color=7c3aed" alt="top langs" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ariefputranto&show_icons=true&hide_border=true&theme=tokyonight&icon_color=00d4ff&title_color=7c3aed" alt="stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ariefputranto&layout=compact&hide_border=true&theme=tokyonight&title_color=7c3aed&langs_count=8" alt="top langs" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariefputranto&hide_border=true&theme=tokyonight&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff" alt="streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ariefputranto&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00d4ff&line=7c3aed&point=ffffff&area=true" width="95%" alt="activity graph" />
 
 </div>
 
