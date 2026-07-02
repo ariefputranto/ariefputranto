@@ -1,16 +1,68 @@
-# Hi, I'm Arief Putranto 👋
+<div align="center">
 
-**Full Stack Engineer** with 8+ years building scalable web apps, APIs, and
-microservices across Indonesia, Hong Kong, and Australia — from AI-powered legal tech
-to enterprise healthcare.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7c3aed&height=200&section=header&text=Arief%20Putranto&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Engineer%20%C2%B7%208%2B%20years&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Arief Putranto" />
 
-### 🌐 Portfolio & résumé → **[artolab.net](https://artolab.net)**
+<a href="https://artolab.net">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=560&lines=Full+Stack+Engineer;Go+%C2%B7+Node.js+%C2%B7+React+%C2%B7+Vue;API+Architect+%26+LLM+Integrator;Building+at+artolab.net" alt="typing" />
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-artolab.net-00d4ff?style=for-the-badge)](https://artolab.net)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arief-putranto-b3463484)
+<br/>
+
+### 🌐 &nbsp;Explore my portfolio & résumé → **[artolab.net](https://artolab.net)**
+
+<a href="https://artolab.net"><img src="https://img.shields.io/badge/Portfolio-artolab.net-00d4ff?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/arief-putranto-b3463484"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:ariefputranto0@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=ariefputranto&color=7c3aed&style=for-the-badge&label=Profile+Views" alt="views" />
+
+</div>
 
 ---
 
-**Stack:** Go · Node.js · TypeScript · PHP · React · Vue · Next.js · Docker · GraphQL · LLM integration
+## 👨‍💻 &nbsp;About me
 
-📍 Kediri, East Java, Indonesia · Open to remote work worldwide
+- 🚀 &nbsp;**Full Stack Engineer** with **8+ years** shipping production web apps, RESTful/GraphQL APIs, and microservices.
+- 🌏 &nbsp;Worked remotely with teams across **Indonesia, Hong Kong, and Australia**.
+- 🧩 &nbsp;Domains: **AI-powered legal tech, property tech, EdTech, healthcare, e-commerce**.
+- 🤖 &nbsp;Currently integrating **LLMs** into contract analysis & document review at **Nexlaw AI**.
+- 📍 &nbsp;Based in **Kediri, East Java, Indonesia** — open to remote work worldwide.
+
+---
+
+## 🛠️ &nbsp;Tech Stack
+
+<div align="center">
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=go,nodejs,ts,js,php,java,react,vue,nextjs,nuxtjs,laravel,symfony,graphql,docker,mysql,postgres,mongodb,redis,elasticsearch,linux,git&theme=dark&perline=11" alt="skills" />
+
+</div>
+
+---
+
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ariefputranto&show_icons=true&hide_border=true&theme=tokyonight&icon_color=00d4ff&title_color=7c3aed" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefputranto&layout=compact&hide_border=true&theme=tokyonight&title_color=7c3aed" alt="top langs" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ariefputranto&hide_border=true&theme=tokyonight&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff" alt="streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 &nbsp;Let's build something great together.
+
+<a href="https://artolab.net"><img src="https://img.shields.io/badge/See_my_work-artolab.net-00d4ff?style=for-the-badge&logo=rocket&logoColor=white" alt="cta" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:00d4ff&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
